@@ -1,0 +1,11 @@
+# Untuk LCD 16x2 I2C
+RPLCD
+
+# Untuk OLED 128x64 I2C
+adafruit-circuitpython-ssd1306
+pillow
+adafruit-blinka
+
+# Opsional tambahan untuk I2C dan kompatibilitas Raspberry Pi
+pyftdi
+lgpio
